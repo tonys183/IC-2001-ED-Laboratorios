@@ -1,6 +1,6 @@
 # IC-2001 — Estructuras de Datos
 
-Laboratorios del curso Estructuras de Datos (IC-2001), con implementaciones y soluciones en C++ y actividades escritas. Cada carpeta incluye un resumen de sus problemas.
+Laboratorios del curso Estructuras de Datos (IC-2001), con implementaciones y soluciones en C++. Cada carpeta incluye un resumen de sus problemas.
 
 ## Laboratorios
 
