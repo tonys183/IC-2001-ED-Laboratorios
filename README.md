@@ -1,9 +1,8 @@
 # IC-2001 — Estructuras de Datos
 
-<p align="center">🌳</p>
-
 <p align="center">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <a href="LICENSE"><img alt="Licencia GPL-3.0" src="https://img.shields.io/github/license/tonys183/IC-2001-ED-Laboratorios?style=flat-square&label=Licencia&logo=opensourceinitiative&logoColor=white"></a>
 </p>
 
 <p align="center">
