@@ -3,7 +3,7 @@
 <p align="center">🌳</p>
 
 <p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 </p>
 
 <p align="center">
