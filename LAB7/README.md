@@ -4,7 +4,7 @@
 
 ### Problema de programación
 
-La actividad solicita resolver un problema de un torneo de VJudge; la carpeta no contiene código de esa solución.
+Resolver un problema de un torneo de VJudge
 
 ### Resumen de La utilidad de lo inútil
 
