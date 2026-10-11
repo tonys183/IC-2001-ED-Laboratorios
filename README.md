@@ -1,5 +1,15 @@
 # IC-2001 — Estructuras de Datos
 
+<p align="center">🌳</p>
+
+<p align="center">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square">
+</p>
+
+<p align="center">
+  <a href="#laboratorios">Laboratorios</a>
+</p>
+
 Laboratorios del curso Estructuras de Datos (IC-2001), con implementaciones y soluciones en C++. Cada carpeta incluye un resumen de sus problemas.
 
 ## Laboratorios
